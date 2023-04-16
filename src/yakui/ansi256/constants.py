@@ -1,6 +1,0 @@
-""""""
-
-CSI = "\033["
-
-FOREGROUND = 38
-BACKGROUND = 48
